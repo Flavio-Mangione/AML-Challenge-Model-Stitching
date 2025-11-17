@@ -3,10 +3,9 @@
     <bold> Model-Stitching Challenge </bold>
   </h1>
   <p><strong>Sapienza University of Rome</strong></p>
-  <p><em>Advanced Machine Learning </em></p>
+  <p><em>Advanced Machine Learning Course </em></p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python"/>
-    <img src="https://img.shields.io/badge/License-Academic-green.svg" alt="License"/>
   </p>
 </div>
 
