@@ -21,12 +21,16 @@ This repository contains our solution for the kaggle competition for *Advanced M
 
 ### Team Members 
 
+<div align="center">
+
 |      STUDENT       |   ID    |          
 |:------------------:|:-------:|
 | Luca De Ruggiero   | 2174783 |  
 | Elena Di Grigoli   | 2011814 |
 | Fabrizio Ferrara   | 2207087 | 
 | Flavio Mangione   | 2201201 | 
+
+</div>
 
 ## Task
 
