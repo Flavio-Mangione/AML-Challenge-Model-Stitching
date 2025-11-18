@@ -19,6 +19,15 @@ This repository contains our solution for the kaggle competition for *Advanced M
 
 ---
 
+### Team Members 
+
+|      STUDENT       |   ID    |          
+|:------------------:|:-------:|
+| Luca De Ruggiero   | 2174783 |  
+| Elena Di Grigoli   | 2011814 |
+| Fabrizio Ferrara   | 2207087 | 
+| Flavio Mangione   | 2201201 | 
+
 ## Task
 
 Our challenge was to solve an image–text retrieval task, where the goal is to generate caption embeddings that maximize the Mean Reciprocal Rank (MRR) when matched against ground-truth image embeddings, 
