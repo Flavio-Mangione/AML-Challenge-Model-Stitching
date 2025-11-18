@@ -6,6 +6,8 @@
   <p><em>Advanced Machine Learning Course </em></p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python"/>
+    <img src="https://img.shields.io/badge/Sapienza-Università_di_Roma-822433" alt="Sapienza"/>
+  </p>
   </p>
 </div>
 
